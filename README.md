@@ -18,7 +18,8 @@ Python Turtle module se bana simple arcade game. Ship ko Left/Right arrow se mov
 
 ### Kaise Chalaye
 Terminal me run karo: 
-`python space_shooter.py`
+`python space_shooter.py
+![Game Screenshot](Screenshot.pg)
 
 ---
 Made with ❤️ + Turtle Python
